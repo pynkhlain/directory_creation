@@ -1,5 +1,5 @@
 
-gryffindor = [
+alpha = [
 'ALBUS DUMBLEDORE',
 'MINERVA MCGONAGALL',
 'HARRY POTTER',
@@ -16,7 +16,7 @@ gryffindor = [
 'PERCY WEASLEY'
 ]
 
-slytherin = [
+beta = [
 'VOLDEMORT',
 'SEVERUS SNAPE',
 'SALAZAR SLYTHERIN',
@@ -31,7 +31,7 @@ slytherin = [
 'LUCIUS MALFOY'
 ]
 
-hufflepuff = [
+gamma = [
 'HELGA HUFFLEPUFF',
 'BRIDGET WENLOCK',
 'NEWT SCAMANDER',
@@ -41,7 +41,7 @@ hufflepuff = [
 'THE FAT FRIAR'
 ]
 
-ravenclaw = [
+delta = [
 'ROWENA RAVENCLAW',
 'LUNA LOVEGOOD',
 'GILDEROY LOCKHART',
