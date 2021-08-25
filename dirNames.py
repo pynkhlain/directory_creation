@@ -1,5 +1,5 @@
 # new feature
-alpha = [
+yolo = [
 'ALBUS DUMBLEDORE',
 'MINERVA MCGONAGALL',
 'HARRY POTTER',
@@ -16,7 +16,7 @@ alpha = [
 'PERCY WEASLEY'
 ]
 
-beta = [
+polo = [
 'VOLDEMORT',
 'SEVERUS SNAPE',
 'SALAZAR SLYTHERIN',
@@ -31,7 +31,7 @@ beta = [
 'LUCIUS MALFOY'
 ]
 
-gamma = [
+golo = [
 'HELGA HUFFLEPUFF',
 'BRIDGET WENLOCK',
 'NEWT SCAMANDER',
@@ -41,7 +41,7 @@ gamma = [
 'THE FAT FRIAR'
 ]
 
-delta = [
+dolo = [
 'ROWENA RAVENCLAW',
 'LUNA LOVEGOOD',
 'GILDEROY LOCKHART',
