@@ -1,5 +1,5 @@
 # new feature
-yolo = [
+starks = [
 'ALBUS DUMBLEDORE',
 'MINERVA MCGONAGALL',
 'HARRY POTTER',
@@ -16,7 +16,7 @@ yolo = [
 'PERCY WEASLEY'
 ]
 
-polo = [
+lannisters = [
 'VOLDEMORT',
 'SEVERUS SNAPE',
 'SALAZAR SLYTHERIN',
@@ -31,7 +31,7 @@ polo = [
 'LUCIUS MALFOY'
 ]
 
-golo = [
+greyjoys = [
 'HELGA HUFFLEPUFF',
 'BRIDGET WENLOCK',
 'NEWT SCAMANDER',
@@ -41,7 +41,7 @@ golo = [
 'THE FAT FRIAR'
 ]
 
-dolo = [
+targaryens = [
 'ROWENA RAVENCLAW',
 'LUNA LOVEGOOD',
 'GILDEROY LOCKHART',
